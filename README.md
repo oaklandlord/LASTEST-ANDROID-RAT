@@ -1,19 +1,8 @@
 # <div align="center"><ins>EVER SPY OFFICIAL</ins></div>
 
 ## <div align="center"><ins>NO TELEGRAM !!!  NO TELEGRAM !!! NO TELEGRAM !!!</ins></div>
-## <div align="center"><ins>Price for v3 latest is $1000.  Price for v2 is $400. All lifetime. Supports multiple servers or pc</ins></div>
-## <div align="center"><ins>Send payment to address below and send transaction id or photo to everspyofficial@gmail.com for confirmation.</ins></div>
-## <div align="center"><ins>A download link for v3 will be sent to you shortly after. Thank you.</ins></div>
-
 #
-<picture>
-  <p align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/iiuZMbE.jpg">
-  <img alt="payment address" src="https://i.imgur.com/iiuZMbE.jpg">
-  </p>
-</picture>
-<div align="center"><ins>bc1qx8vagzrtvaqurwt4tjw0pxrzlquthetc495teg</ins></div>
-<div align="center"><ins>TFhMyp3gM4knNGTWWjq9Le9HtXA2cVKvsE</ins></div>
+
 <br>
 <p align="center">
 EverSpy V3  android remote control software. With its advanced features you can control or monitor an android device without having physical access to it
